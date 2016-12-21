@@ -1,8 +1,8 @@
 {
-    "major" : "",
-    "minor" : "",
-    "patch" : "",
-    "build" : "2",
-    "version" : "",
-    "full" : "...2"
+    "major" : "0",
+    "minor" : "6",
+    "patch" : "125",
+    "build" : "329",
+    "version" : "0.6.125",
+    "full" : "0.6.125.329"
 }
