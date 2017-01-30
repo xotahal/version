@@ -1,8 +1,8 @@
 {
     "major" : "0",
     "minor" : "7",
-    "patch" : "2",
+    "patch" : "3",
     "build" : "456",
-    "version" : "0.7.2",
-    "full" : "0.7.2.456"
+    "version" : "0.7.3",
+    "full" : "0.7.3.456"
 }
